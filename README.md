@@ -1,22 +1,11 @@
 # ws: a Node.js WebSocket library
 
-<<<<<<< HEAD
+
 [![Version npm](https://img.shields.io/npm/v/ws.svg?logo=npm)](https://www.npmjs.com/package/ws)
 [![Linux Build](https://img.shields.io/travis/websockets/ws/master.svg?logo=travis)](https://travis-ci.org/websockets/ws)
 [![Windows Build](https://img.shields.io/appveyor/ci/lpinca/ws/master.svg?logo=appveyor)](https://ci.appveyor.com/project/lpinca/ws)
 [![Coverage Status](https://img.shields.io/coveralls/websockets/ws/master.svg)](https://coveralls.io/github/websockets/ws)
-=======
-forked from https://github.com/websockets/ws
 
-[![Version npm](https://img.shields.io/npm/v/ws.svg)](https://www.npmjs.com/package/ws)
-[![Linux Build](https://img.shields.io/travis/websockets/ws/master.svg)](https://travis-ci.org/websockets/ws)
-[![Windows Build](https://ci.appveyor.com/api/projects/status/github/websockets/ws?branch=master&svg=true)](https://ci.appveyor.com/project/lpinca/ws)
-[![Coverage Status](https://img.shields.io/coveralls/websockets/ws/master.svg)](https://coveralls.io/r/websockets/ws?branch=master)
-<<<<<<< HEAD
->>>>>>> fetched newest version from upstream
-=======
->>>>>>> d2bf4ca7ce16b833aa85382859b08c329dda3365
->>>>>>> f239f32f9617968b27babd61591c6e34c1e13ac6
 
 ws is a simple to use, blazing fast, and thoroughly tested WebSocket client and
 server implementation.
