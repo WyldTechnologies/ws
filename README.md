@@ -1,5 +1,7 @@
 # ws: a Node.js WebSocket library
 
+forked from https://github.com/websockets/ws
+
 [![Version npm](https://img.shields.io/npm/v/ws.svg)](https://www.npmjs.com/package/ws)
 [![Linux Build](https://img.shields.io/travis/websockets/ws/master.svg)](https://travis-ci.org/websockets/ws)
 [![Windows Build](https://ci.appveyor.com/api/projects/status/github/websockets/ws?branch=master&svg=true)](https://ci.appveyor.com/project/lpinca/ws)
